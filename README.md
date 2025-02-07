@@ -9,3 +9,5 @@ Usage examples: - Overthrowing small governments - Building a new empire - Bring
 How to contribute: Confidential information about said governments are of much help ^^
 
 Contact information: thirdworlddaidominator@gmail.com
+
+A .py and .csv are included to help in the endeavors.
