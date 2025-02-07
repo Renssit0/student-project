@@ -1,4 +1,4 @@
-# Super IA for conquering 3rd world countries
+# Super AI for conquering 3rd world countries
 
 Description: Self-explanatory
 
